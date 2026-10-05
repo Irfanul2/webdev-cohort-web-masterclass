@@ -1,0 +1,14 @@
+Hello Developer i am version zero
+version control system
+git init:for initialization of the folder to track folder
+git add<file>: to add file to track
+git add . :to add all file in the same folder to track
+git status : to see the status of the file inside the folder
+ls -Force : to find .git file inside folder which keeps track of the folder
+cat index : to find the tracked file
+cat <file name> : to find what is inside the folder
+pwd : to find the path of the folder
+commit : is like check point
+Every commit has an its individual ID
+git log: to see history(git bhai thora hame khabr do )
+git diff<hashnumber>: basically hepl us to see changes what has been modified
