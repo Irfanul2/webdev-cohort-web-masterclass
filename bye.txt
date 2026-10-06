@@ -1,2 +1,8 @@
 i am just testing git diff
 0385b87ad38f55877e65b94badb138818d98a065
+Cat(Linux): file content ko print krta hai terminal pr
+git file-compressed file hota hai (compressed.git=chinese file) 
+git cat-file -t(commit hai ya nhi check krta hai) -s(commit ka size batayega) -p(content ko terminal pr print kr do)
+git log --one line : to check the head
+git reset <filehashnum> : to change the head positiion
+git reset --hard <file hashname>: to uncommit everything and put it in the back position
